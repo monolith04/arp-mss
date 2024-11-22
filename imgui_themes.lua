@@ -3,7 +3,7 @@ local imgui = require 'imgui'
 
 EXPORTS = {
     colorThemes = {"Advance RP", "Androvira", "Green", "Blue", "Purple", "Grey", "Cherry", "Dark Pink"},
-
+	version = 0.2,
     SwitchColorTheme = function(theme)
         local style = imgui.GetStyle()
         local colors = style.Colors
