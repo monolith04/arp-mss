@@ -4,11 +4,11 @@
     "date": "05.09.2026",
     "mss_url": "https://drive.google.com/uc?export=download&id=19eDTM_noQmetuWUVjgzEMJFGwtxXGshd",
     "ms_modules": {
-        "config": 1,
+        "config": 2,
         "hotkeys": 1,
         "imgui": 1,
         "sampev_handlers": 1,
-        "strings": 1,
+        "strings": 2,
         "utils": 1
     }
 }
